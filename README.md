@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @saransh484
-- 👀 I’m interested in computers, electronics, computer hardware, software, pc building, robotics and food.
+- 👀 I’m interested in computers, electronics, computer hardware, software, pc building, robotics, cinematography, video editing bla bla bla and food.
 - 🌱 I’m currently learning web dev and C/C++
 - 💞️ I’m looking to collaborate on web dev projects.
 - 📫 you can reach me on my social media instagram - @saransh.exe | twitter - saransh_dot_exe
