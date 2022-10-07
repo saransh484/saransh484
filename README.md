@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @saransh484
 - 👀 I’m interested in computers, electronics, computer hardware, software, pc building, robotics, cinematography, video editing bla bla bla and food.
-- 🌱 I’m currently learning web dev and Java
-- 💞️ I’m looking to collaborate on web dev projects.
+- 🌱 I’m currently learning data science and lua.
+- 💞️ I’m looking to collaborate on various projects.
 - 📫 you can reach me on my social media instagram - @saransh.exe | twitter - saransh_dot_exe
 
 <!---
