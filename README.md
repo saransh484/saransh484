@@ -20,8 +20,8 @@ Here are some ideas to get you started:
 
 I'm saransh484.
 
-- 🔭 I’m currently working on Web App Project.
-- 🌱 I’m currently learning Bash, React, and DSA.
+- 🔭 I’m currently working on Flutter.
+- 🌱 I’m currently learning Bash, DevOps, and DSA.
 - 👯 I’m looking to collaborate on IoT Projects.
 - 💬 Ask me about anything!
 - 😄 Pronouns: [he/him/his](https://pronoun.is/he)
