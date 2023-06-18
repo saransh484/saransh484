@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 I'm saransh484.
 
-- 🔭 I’m currently working on Flutter.
+- 🔭 I’m currently working on NodeJS.
 - 🌱 I’m currently learning Bash, DevOps, and DSA.
 - 👯 I’m looking to collaborate on IoT Projects.
 - 💬 Ask me about anything!
