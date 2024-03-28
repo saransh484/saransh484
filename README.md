@@ -25,7 +25,7 @@ I'm saransh484.
 - 👯 I’m looking to collaborate on IoT Projects.
 - 💬 Ask me about anything!
 - 😄 Pronouns: [he/him/his](https://pronoun.is/he)
-- 📫 How to reach me: [e-mail](mailto:saranshbhatnagar@yahoo.com) / [Telegram](https://t.me/DeagleOP)
+- 📫 How to reach me: [e-mail](mailto:saranshplay@gmail.com) / [Telegram](https://t.me/DeagleOP)
 - ⚡ Fun fact: I'm a full-time Procrastinator, Part-time Coder.
 
 
