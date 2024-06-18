@@ -51,7 +51,7 @@ I'm saransh484.
       <summary><strong>Laptop 1</strong></summary>
       <ul>
         <li>CPU: AMD Ryzen 5 5600H (max4.2GHz 16MB 6C-12T X86_64)</li>
-        <li>RAM: 8GB (DDR4-3200)</li>
+        <li>RAM: 16GB (DDR4-3200)</li>
         <li>SSD: 512GB (NVMe)</li>
         <li>OS1: Windows 11</li>
       </ul>
