@@ -20,9 +20,9 @@ Here are some ideas to get you started:
 
 I'm saransh484.
 
-- 🔭 I’m currently working on NodeJS.
-- 🌱 I’m currently learning Bash, DevOps, and DSA.
-- 👯 I’m looking to collaborate on IoT Projects.
+- 🔭 I’m currently working on Docker && K8s.
+- 🌱 I’m currently learning Bash, GitOps, and CI/CD.
+- 👯 I’m looking to collaborate on K8s and Docker projects.
 - 💬 Ask me about anything!
 - 😄 Pronouns: [he/him/his](https://pronoun.is/he)
 - 📫 How to reach me: [e-mail](mailto:saranshplay@gmail.com) / [Telegram](https://t.me/DeagleOP)
